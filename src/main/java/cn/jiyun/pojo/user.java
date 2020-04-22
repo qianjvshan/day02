@@ -9,6 +9,14 @@ public class user {
     private Date birth;
     private String hobby;
 
+    public String getHobby() {
+        return hobby;
+    }
+
+    public void setHobby(String hobby) {
+        this.hobby = hobby;
+    }
+
     public String getUname() {
         return uname;
     }
