@@ -7,6 +7,7 @@ public class user {
     private String uname;
     private Integer age;
     private Date birth;
+    private String hobby;
 
     public String getUname() {
         return uname;
